@@ -1,14 +1,14 @@
-##💼 **Smart Loan Recovery System**  
+# 💼 **Smart Loan Recovery System**  
 A machine learning project focused on predicting loan repayment outcomes to support financial institutions in streamlining their recovery efforts. This solution applies classification algorithms to analyze borrower behavior and forecast the likelihood of loan defaults.
 
 ---
 
-##🔍 **Project Overview**  
+## 🔍 **Project Overview**  
 Loan recovery is a critical process in financial services to reduce non-performing assets (NPAs). This project uses data analysis and machine learning techniques to study borrower profiles and predict whether loans will be repaid or defaulted. This enables better recovery planning and risk management.
 
 ---
 
-##📊 **Objectives:**
+## 📊 **Objectives:**
 - Analyze borrower and loan transaction data for behavioral insights.
 - Preprocess, clean, and visualize the dataset.
 - Build and evaluate ML models to predict repayment vs default.
@@ -16,13 +16,13 @@ Loan recovery is a critical process in financial services to reduce non-performi
 
 ---
 
-##📁 **Repository Contents**
+## 📁 **Repository Contents**
 - `SmartLoanRecovery.ipynb` – Contains EDA, data processing, ML modeling, and evaluation.
 - `README.md` – Documentation of the project.
 
 ---
 
-##📊 **Features**
+## 📊 **Features**
 - Comprehensive Exploratory Data Analysis (EDA)
 - Data cleaning and preprocessing
 - Feature engineering and transformation
@@ -34,7 +34,7 @@ Loan recovery is a critical process in financial services to reduce non-performi
 
 ---
 
-##💻 **Tech Stack**
+## 💻 **Tech Stack**
 - **Language:** Python 3.x  
 - **Libraries:**  
   - `pandas`  
@@ -46,7 +46,7 @@ Loan recovery is a critical process in financial services to reduce non-performi
 
 ---
 
-##📌 **Dataset**
+## 📌 **Dataset**
 The dataset includes a mix of borrower demographics and loan-related attributes such as:
 - Age, credit score, income  
 - Loan amount, interest rate  
@@ -56,19 +56,19 @@ These features help predict whether a borrower is likely to repay or default.
 
 ---
 
-##📈 **Results**
+## 📈 **Results**
 Developed a machine learning-based system to predict loan recovery outcomes using borrower profiles, loan attributes, repayment history, and collection efforts. Performed EDA and feature engineering on data including demographics, loan tenure, EMI behavior, and legal recovery actions. Trained multiple classification models to identify patterns in recovery status—fully recovered, partially recovered, or outstanding.
 
 ---
 
-##🧑‍💻 **Author**  
+## 🧑‍💻 **Author**  
 **Manthan Mehta**  
 [GitHub](https://github.com/manthan7mehta)  
 [LinkedIn](https://www.linkedin.com/in/manthan7mehta)
 
 ---
 
-##🙌 **Acknowledgements**  
+## 🙌 **Acknowledgements**  
 This project is built using open-source libraries and inspired by real-world challenges in loan default prediction and recovery optimization.
 
 ---
